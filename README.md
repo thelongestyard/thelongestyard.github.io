@@ -1,4 +1,4 @@
-# :tada: Welcome to The Longest Yard! :tada:
+# Welcome to The Longest Yard!
 
 ### Q3DM17
 
